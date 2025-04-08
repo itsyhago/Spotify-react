@@ -7,4 +7,4 @@ Este projeto foi desenvolvido durante a Imersão Alura Front-End com o objetivo 
 - **React**: Compenentização do projeto.
 ---
 **Autor:** Yhago Pessoa  
-**Data:** 06 de janeiro de 2025
+**Data:** 06 de Fevereiro de 2025
