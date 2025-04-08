@@ -1,0 +1,40 @@
+/* Footer - disclaimer-premium */
+.disclaimer-premium{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: linear-gradient(to right, var(--color-gradient-1),var(--color-gradient-2));
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font: normal normal  700 14px var(--font-Montserrat);
+    color: var(--color4);
+    padding: 15px 40px;
+    
+}
+
+/* Disclaimer-premium text */
+.disclaimer-premium .text .disclaimer-premium__title{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+/* Disclaimer-premium button */
+.button{
+    display: flex;
+    justify-content: center;
+}
+.disclaimer-premium button{
+    width: 200px;
+    border-radius: 20px;
+    border:none;
+    padding: 14px 30px;
+    margin: 8px;
+    font: normal normal 700 16px var(--font-Montserrat);
+    font-weight: bold;
+    cursor: pointer;
+}
+.disclaimer-premium button:hover{
+    transform: scale(1.04);
+}
